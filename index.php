@@ -1,3 +1,8 @@
+<?php
+
+require_once 'functions/functions.php';
+
+?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
