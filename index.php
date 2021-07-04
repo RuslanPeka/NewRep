@@ -6,8 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Домашняя страница</title>
     <link rel="stylesheet" href="css/styles.css">
+    <script src="js/scripts.js"></script>
 </head>
 <body>
-    <p>Привет, Мир! =)</p>
+    <!-- <p>Привет, Мир! =)</p>
+    <script>myScript();</script> -->
 </body>
 </html>
