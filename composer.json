@@ -1,0 +1,16 @@
+{
+  "name": "my_project/my_project",
+  "type": "project",
+  "description": "My Test Project",
+  "license": "MIT",
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
